@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Prathamesh Joshi
 - 👀 I’m interested in Python.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me prathameshjoshi0304@gmail.com
 
 <!---
